@@ -1,0 +1,51 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "GODLOVE_Tech",
+    "theme": "GODLOVE-Md",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",  
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "*Believe it.\nYour bot is already up-to-date*",
+            "NEW_UPDATE": "*it's time to update the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },  
+        "global": {      
+            "botName": "GODLOVE-md",
+            "body": "whatsapp User Bot", 
+            "greet2" : "Thanks To MICHAEL Tech",
+            "pic1": "https://telegra.ph/file/1929829cd3a0258487403.jpg, 
+            "greet" : "Believe it",
+            "dotbody" : "I decided being Pirate King.",
+            "emojii" : "🍑", 
+            "promote": "Admin Role Given to NASTeam tech",
+            "pmallow": "*Hii,This is NASTeam Tech\n You have been blocked for spamming.\n\n _Powered by Godlove md_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Channel : \nhttps://whatsapp.com/channel/0029Vaf37SD8PgsP08kjM347/0029VaJmfmTDJ6H7CmuBss0o\n\n*Powered by Mrsky*",
+            "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by MICHAEL_", 
+            "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by MICHAEL_",
+            "demote": "Uhh,Admin Role Taken back",
+            "antlink": "Link Detected.\n*Good Bye Rouge pirate*","michael"
+            "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by GODLOVE*",
+            "mention": " Please mention My Owner",
+            "title": "GODLOVE-Md",
+            "footer": "©²⁰²⁴ GODLOVE-ᴍᴅ \n https://whatsapp.com/channel/0029Vaf37SD8PgsP08kjM347",
+            "by": "Made by: GODLOVE-MD tech",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "GODLOVE ᴍᴅ or GODLOVE ᴍᴅ⚠️!",
+            "botAdmin": "GODLOVE ᴍᴅ.❗",
+            "owner": "GODLOVE ᴍᴅ⚠️",
+            "group": "GODLOVE ᴍᴅ or GODLOVE ᴍᴅ❗",
+            "private": "GODLOVEᴍᴅ⚠️",
+            "bot": "GODLOVE ᴍᴅ⚠️",
+            "wait": "©²⁰²⁴GODLOVEᴍᴅ✅"
+        },
+        "error": {
+            "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
+        }
+    } 
+  }
+   
