@@ -147,7 +147,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 # please click the following button  and  fill the details to support my project
 
 
-<a href="https://www.buymeacoffee.com/venocyber"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=venocyber&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/muchael"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=venocyber&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 --
 
@@ -157,7 +157,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
    
 ## 
 👇👇👇👇👇👇👇👇
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/mrsky-cyber/Mrsky-md)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/michaelgodlove/Michael-md)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
