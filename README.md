@@ -114,22 +114,22 @@ A mult device whatsup bot created by Michael-godlove
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`(https://mrsky.lovestoblog.com/?i=1) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`(https://michaelgodlove.lovestoblog.com/?i=1) or server 2 qr code
     <br>
 <a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`]().https://mrsky.lovestoblog.com/?i=1 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+2.  [`PARING CODE`]().https://michaelgodlove.lovestoblog.com/?i=1 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
-<a href="https://mrsky-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://michael-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/shorts/b6zv1n6DTEM). `Optional`***
 5. and `Star ⭐ Repository` for Courage.***
 8.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 9.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-10.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmrsky-cyber%2FMrsky-md)***
-12.  ***Deploy on [`Replit`](https://replit.com/github/mrsky-cyber/Mrsky-md)***
+10.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmichaelgodlovd%2FGodlove-md)***
+12.  ***Deploy on [`Replit`](https://replit.com/github/michaelgodlove/Godlove-md)***
 11.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-12.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mrsky-cyber/Mrsky-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328env[MONGODB_URI]&&env[OWNER_NAME]=Mrsky&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Mrsky+md&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-Md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/504b26be1bb9cf690261b.jpg)***
+12.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/michaelgodlove/Godlove-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328env[MONGODB_URI]&&env[OWNER_NAME]=Mrsky&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Mrsky+md&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-Md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/504b26be1bb9cf690261b.jpg)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
